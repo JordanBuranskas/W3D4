@@ -83,3 +83,6 @@ class Board
   private
   attr_reader :grid
 end
+
+
+#jordan
